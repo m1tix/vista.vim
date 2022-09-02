@@ -31,6 +31,7 @@ hi default link VistaLineNr      LineNr
 hi default link VistaColon       SpecialKey
 hi default link VistaIcon        StorageClass
 hi default link VistaArgs        Comment
+hi default link VistaActive      IncSearch
 
 hi default VistaPublic     guifg=Green  ctermfg=Green
 hi default VistaProtected  guifg=Yellow ctermfg=Yellow
